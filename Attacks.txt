@@ -1,0 +1,47 @@
+date, name, severity
+14-2-2022, tt.se, 2
+14-2-2022, axess.se, 2
+14-2-2022, tv4play.se, 2
+14-2-2022, tv4.se, 2
+14-2-2022, tv6.se, 2
+14-2-2022, svt.se, 2
+14-2-2022, tlcsverige.se, 2
+14-2-2022, svenske universiteter, 1
+14-2-2022, telecom/ISP, 1
+14-2-2022, Flyindustri og SAS, 2
+15-2-2022, Svenske lufthavne, 2
+16-2-2022, Svenske jernbaner, 2
+16-2-2022, SAS, 2
+16-2-2022, Klarna, 3
+16-2-2022, Zettle, 3
+16-2-2022, trusty, 3
+16-2-2022, medier der lyver, 2
+19-2-2022, Svenske betalingssystemer, 1
+19-2-2022, Svenske banker, 1
+19-2-2022, Svensk forsyningssektor, 1
+19-2-2022, Svenske ISP'er, 1
+19-2-2022, Svensk militær, 1
+19-2-2022, Svensk telecom, 1
+19-2-2022, Svensk tv, 1
+19-2-2022, Svensk jernbane, 1
+19-2-2022, Svensk alarmcentral, 1
+19-2-2022, Svenske borgerservices, 1
+20-2-2022, Forsyning, 1
+20-2-2022, alarmcentral, 1
+20-2-2022, digital post, 3
+20-2-2022, beredskabsstyrelsen, 2
+21-2-2022, Skat, 2
+21-2-2022, Sundhedsmyndigheder, 2
+21-2-2022, SAS, 2
+22-2-2022, Danske lufthavne fra Stauning til CPH Airport, 2
+23-2-2022, itu, 1
+23-2-2022, ruc, 1
+23-2-2022, dtu, 1
+23-2-2022, ku, 1
+25-2-2022, polske mål, 0
+25-2-2022, politi.dk, 1
+25-2-2022, energiministerie, 2
+25-2-2022, undervisnings ministeriet, 2
+25-2-2022, folketinget, 1
+26-2-2022, region H, 1
+26-2-2022, en række hospitaler, 1
